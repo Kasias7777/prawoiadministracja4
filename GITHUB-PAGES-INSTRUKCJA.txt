@@ -1,0 +1,10 @@
+PACZKA GITHUB PAGES DLA: kasias7777.github.io/prawoadministracja4/
+
+1. Utworz repozytorium o nazwie prawoadministracja4.
+2. Rozpakuj ten ZIP.
+3. Wgraj CAŁĄ zawartość rozpakowanego folderu bezpośrednio do głównej gałęzi repozytorium, najczęściej main. Nie wgrywaj dodatkowego folderu nadrzędnego.
+4. W GitHub wybierz Settings -> Pages -> Deploy from a branch -> main -> / (root) -> Save.
+5. Po publikacji otwórz: https://kasias7777.github.io/prawoadministracja4/
+6. Jeśli pojawi się poprzednia wersja, odśwież stronę przez Ctrl+F5.
+
+Paczka jest zbudowana pod ścieżkę /prawoadministracja4/ i zawiera lokalne zasoby, 404.html oraz .nojekyll. Nie wymaga Node.js ani PHP na GitHub Pages.
